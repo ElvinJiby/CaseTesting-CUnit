@@ -1,4 +1,3 @@
-Made as part of an assignment for Software Engineering Project I in CS 1st year<br/>
 Made by Elvin Jiby with CLion<br/>
 08/05/2023<br/>
 <br/>
